@@ -36,7 +36,7 @@ public class ToDoApp {
                     } else {
                         for (int i = 0; i < tasks.size(); i++) {
                             Task t = tasks.get(i);
-                            String status = t.isDone() ? "[✓]" : "[ ]";
+                            String status = t.isDone() ? "[+]" : "[ ]";
                             System.out.println((i + 1) + ". " + status + " " + t.getDescription());
                         }
                     }
