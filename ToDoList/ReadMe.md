@@ -31,4 +31,8 @@ The application allows users to:
 3. Compile the code using:
 
    ```bash
-   javac Task.java ToDoApp.java
+   javac ToDoApp.java
+4. Run the Application
+   
+   ```bash
+   java ToDoApp.java
