@@ -23,6 +23,7 @@ public class TicTacToe{
 
             if(row<0 || row >2 || col<0 || col>2 || board[row][col]!=' '){
                 System.out.println("Invalid Move Try Again ....");
+                continue;
             }
 
             board[row][col]=currentPlayer;
