@@ -1,3 +1,5 @@
+package CookieClicker;
+
 import java.util.*;
 public class CookieClicker
 {

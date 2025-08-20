@@ -1,4 +1,4 @@
-//tried the logic behind the game rock paper scissor
+package RockPaperScissorPackage;//tried the logic behind the game rock paper scissor
 import java.util.*;
 
 public class App{
